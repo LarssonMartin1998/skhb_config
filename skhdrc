@@ -15,9 +15,9 @@ alt - h : yabai -m space --focus prev || yabai -m space --focus last
 alt - u : yabai -m space --focus next || yabai -m space --focus first
 alt - q : yabai -m space --focus 1
 alt - w : yabai -m space --focus 2
-alt - j : yabai -m space --focus 3
+alt - f : yabai -m space --focus 3
 alt - r : yabai -m space --focus 4
-alt - t : yabai -m space --focus 5
+alt - b : yabai -m space --focus 5
 alt - y : yabai -m space --focus 6
 alt - u : yabai -m space --focus 7
 alt - i : yabai -m space --focus 8
@@ -27,9 +27,9 @@ alt + cmd - h : yabai -m window --space prev || yabai -m window --space last
 alt + cmd - u : yabai -m window --space next || yabai -m window --spacefirst
 alt + cmd - q : yabai -m window --space 1
 alt + cmd - w : yabai -m window --space 2
-alt + cmd - j : yabai -m window --space 3
+alt + cmd - f : yabai -m window --space 3
 alt + cmd - r : yabai -m window --space 4
-alt + cmd - t : yabai -m window --space 5
+alt + cmd - b : yabai -m window --space 5
 alt + cmd - y : yabai -m window --space 6
 alt + cmd - u : yabai -m window --space 7
 alt + cmd - i : yabai -m window --space 8
